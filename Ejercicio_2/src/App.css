@@ -1,0 +1,66 @@
+.App {
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.formulario{
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 35px;
+  margin-right: 35px;
+  background-color: #0DCAF0;
+}
+.formulario label{
+  color: black;
+}
+.contres{
+  opacity: 70%;
+  background-color: white;
+  max-width: 500px;
+  border-bottom: #212529;
+  margin:0px auto;
+  padding: 50px;
+  border-radius: 10px;
+}
+.btn{
+  margin: 20px;
+}
+.Pagename{
+  border-radius: 10px;
+  min-height: 50px;
+  background-color: #212529;
+  padding-top: 0px;
+  font-style: italic;
+  color: aliceblue;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.cont{ 
+  border-radius: #212529;
+  background-color: skyblue;
+  padding: 20px;
+}
